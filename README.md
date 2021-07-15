@@ -14,3 +14,4 @@ The following reminders are imperative to staying in a "Growth Mindset":
 
 I am an HR professional by trade and brand new to the coding world.  I work in the Tech field and want to have a better understanding of coding.  You can read more about me at my [GitHub Profile] (https://github.com/SarahWoods).  To learn more about the company I work for, please visit (https://dockyard.com).
 
+## Journal
